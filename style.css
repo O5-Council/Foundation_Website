@@ -1,0 +1,157 @@
+.header {
+  background-color: grey;
+  font-family: georgia;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+.header1 {
+  font-family: georgia;
+  padding: 15px;
+  text-align: center;
+  color: white;
+}
+
+.button {
+  background-color: grey;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 160px;
+}
+.button:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.link { 
+	background-color: aqua;
+    color: black;
+    padding: 8px 13px;
+    text-align: center;
+	border: 4px solid grey;
+    display: inline-block;
+	font-size: 60px;
+	margin-left: 500px;
+}
+.link1 { 
+	background-color: aqua;
+    color: black;
+    padding: 8px 13px;
+    text-align: center;
+	border: 4px solid grey;
+    display: inline-block;
+	font-size: 30px;
+	margin-left: 800px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.scrollmenu {
+  background-color: grey;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  font-size: 25px;
+}
+
+.btn1 {
+  background-color: yellow;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 80px;
+  margin-left: 500px;
+  margin-right: auto;
+}
+.btn1:hover {
+  background-color: white;
+  color: black;
+}
+
+.btn2 {
+  background-color: green;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 80px;
+  margin-left: 625px;
+  margin-right: auto;
+}
+.btn2:hover {
+  background-color: white;
+  color: black;
+}
+
+.btn3 {
+  background-color: red;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 80px;
+  margin-left: 750px;
+  margin-right: auto;
+}
+.btn3:hover {
+  background-color: white;
+  color: black;
+}
+
+.btn4 {
+  background-color: blue;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 80px;
+  margin-left: 875px;
+  margin-right: auto;
+}
+.btn4:hover {
+  background-color: white;
+  color: black;
+}
+
+.btn5 {
+  background-color: orange;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 80px;
+  margin-left: 1000px;
+  margin-right: auto;
+}
+.btn5:hover {
+  background-color: white;
+  color: black;
+}
+
+.backbtn {
+  background-color: white;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 30px;
+  margin-left: 750px;
+  margin-right: auto;
+}
+.backbtn:hover {
+  background-color: grey;
+  color: black;
+}
