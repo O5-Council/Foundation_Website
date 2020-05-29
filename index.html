@@ -10,7 +10,6 @@
 		<button onclick = "accessCode()" class = "button"> Click here to enter the access code </button>
 		
 		<script>
-		
 			function accessCode() {
 				var access = prompt("Please enter the access code: ", "");
 				console.log("processing...");
@@ -30,7 +29,12 @@
 		<img src = "images/scp.jpg" width = "540" height = "600" alt = "image of communism"/>
 			
 		<script>	
-			$(document).bind("contextmenu",function(e) {
+			$(document).keydown(function(e){
+    				if(e.which === 123){
+       					return false;
+    				}
+			});
+			$(document).bind("contextmenu",function(e) { 
 				e.preventDefault();
 			});
 		</script>
