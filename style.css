@@ -73,7 +73,7 @@ div.scrollmenu a {
   text-align: center;
   display: inline-block;
   font-size: 80px;
-  margin-left: 500px;
+  margin-left: auto;
   margin-right: auto;
 }
 .btn1:hover {
@@ -88,7 +88,7 @@ div.scrollmenu a {
   text-align: center;
   display: inline-block;
   font-size: 80px;
-  margin-left: 600 px;
+  margin-left: auto;
   margin-right: auto;
 }
 .btn2:hover {
@@ -103,7 +103,7 @@ div.scrollmenu a {
   text-align: center;
   display: inline-block;
   font-size: 80px;
-  margin-left: 500px;
+  margin-left: auto;
   margin-right: auto;
 }
 .btn3:hover {
@@ -118,7 +118,7 @@ div.scrollmenu a {
   text-align: center;
   display: inline-block;
   font-size: 80px;
-  margin-left: 600px;
+  margin-left: auto;
   margin-right: auto;
 }
 .btn4:hover {
@@ -133,7 +133,7 @@ div.scrollmenu a {
   text-align: center;
   display: inline-block;
   font-size: 80px;
-  margin-left: 500px;
+  margin-left: auto;
   margin-right: auto;
 }
 .btn5:hover {
@@ -148,9 +148,10 @@ div.scrollmenu a {
   text-align: center;
   display: inline-block;
   font-size: 30px;
-  margin-left: 700px;
+  margin-left: auto;
   margin-right: auto;
 }
+
 .backbtn:hover {
   background-color: grey;
   color: black;
