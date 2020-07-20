@@ -73,8 +73,7 @@ div.scrollmenu a {
   text-align: center;
   display: inline-block;
   font-size: 80px;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: center;
 }
 .btn1:hover {
   background-color: white;
@@ -88,8 +87,7 @@ div.scrollmenu a {
   text-align: center;
   display: inline-block;
   font-size: 80px;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: center;
 }
 .btn2:hover {
   background-color: white;
@@ -103,8 +101,7 @@ div.scrollmenu a {
   text-align: center;
   display: inline-block;
   font-size: 80px;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: center;
 }
 .btn3:hover {
   background-color: white;
@@ -118,8 +115,7 @@ div.scrollmenu a {
   text-align: center;
   display: inline-block;
   font-size: 80px;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: center;
 }
 .btn4:hover {
   background-color: white;
@@ -133,8 +129,7 @@ div.scrollmenu a {
   text-align: center;
   display: inline-block;
   font-size: 80px;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: center;
 }
 .btn5:hover {
   background-color: white;
